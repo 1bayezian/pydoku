@@ -13,7 +13,6 @@
 - [Key Features](#key-features)
 - [Download](#download)
 - [Usage](#usage)
-- [Contributors](#contributors)
 
 ## Key Features
 
