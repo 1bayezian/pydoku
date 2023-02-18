@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/1bayezian/pydoku">
+  <a href="https://github.com/bay3s/pydoku">
     <img src="/images/logo.png" alt="pydoku" width="125" />
   </a>
 </p>
@@ -31,7 +31,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [p
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/1bayezian/pydoku
+$ git clone https://github.com/bay3s/pydoku
 
 # Go into the repository
 $ cd pydoku
