@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">pydoku</h3>
 <p align="center">
-  A SAT Solver, that will make you smile.
+  A SAT Solver that will make you smile.
 </p>
 
 ## Table of Contents
